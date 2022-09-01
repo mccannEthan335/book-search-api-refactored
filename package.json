@@ -1,0 +1,28 @@
+{
+  "name": "solid-broccoli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-boot-camp/solid-broccoli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coding-boot-camp/solid-broccoli/issues"
+  },
+  "homepage": "https://github.com/coding-boot-camp/solid-broccoli#readme",
+  "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "@apollo/gateway": "^2.0.5",
+    "@apollo/server": "^4.0.0-alpha.5",
+    "apollo-server": "^3.10.1",
+    "graphql": "^16.5.0"
+  }
+}
